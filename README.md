@@ -1,6 +1,4 @@
-Sure, here are the answers to your assignment questions:
-
- SE_DAY2-Assignment
+### SE_DAY2-Assignment
 
 ## Git and GitHub Questions:
 
